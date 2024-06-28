@@ -1,0 +1,5 @@
+train: datasets/data/png/train_split_and_txt
+val: datasets/data/png/val_split_and_txt
+
+nc: 1
+names: ['building']
